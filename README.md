@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Susmitha</h1>
 <h3 align="center">A passionate Developer from India</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susmithathurubhatla&label=Profile%20views&color=0e75b6&style=flat" alt="susmithathurubhatla" /> </p>
 
@@ -18,6 +19,8 @@
 - 💬 Ask me about **Python,Java,HTML ,CSS ,Javascript**
 
 - 📫 How to reach me **susmithathurubhatla@gmail.com**
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushu-99" alt="sushu-99" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
