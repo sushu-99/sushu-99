@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushu-99&label=Profile%20views&color=0e75b6&style=flat" alt="sushu-99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushu-99" alt="sushu-99" /></a> </p>
+
 <img src="susmitha.jpg" alt="sushu-99" align ="right" height=270px/> </p>
 
 
