@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **ML and web development projects**
 
-- 🤝 I’m looking for help with **Prompt Engineering **
+- 🤝 I’m looking for help with **Prompt Engineering**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
