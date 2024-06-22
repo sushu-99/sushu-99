@@ -1,7 +1,7 @@
 <h1 align="center">Hello...!!! 👋, I'm Susmitha</h1>
 <h3 align="center">
 
- Pre-final year Computer Science student passionate about Web Development and Machine Learning. I have a proficient knowledge in Data Structures and Algorithms, and I enjoy solving complex problems. My programming skills are centered around Python and Java, and I'm always eager to learn and explore new technologies. Feel free to connect and collaborate!</h3>
+ Final year Computer Science student passionate about Web Development and Machine Learning. I have a proficient knowledge in Data Structures and Algorithms, and I enjoy solving complex problems. My programming skills are centered around Python and Java, and I'm always eager to learn and explore new technologies. Feel free to connect and collaborate!</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushu-99&label=Profile%20views&color=0e75b6&style=flat" alt="sushu-99" /> </p>
